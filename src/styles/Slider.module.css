@@ -1,0 +1,12 @@
+.image {
+    width: 100%;
+    height: 15rem;
+    object-fit: cover;
+}
+.sliderBox {}
+
+@media screen and (min-width: 700px) {
+    .sliderBox {
+        display: none;
+    }
+}
